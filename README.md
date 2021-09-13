@@ -13,9 +13,9 @@ A Fatec São José dos Campos - Prof. Jessen Vidal, uma instituição de ensino 
 
 Esta metodologia chamada de API - Aprendizagem por Projetos Integrados possibilita a junção dos conhecimentos adquiridos ao longo de todo o semestre, sejam aplicados no desenvolvimento de um produto e/ou sistema para a solução de problema real apresentado por uma empresa parceira.
 
-Esta metodologia proporciona aos alunos um potencial de crescimento de habilidades hard skills incomparáveis as demais metologias, bem como o aprimoramento de habilidades soft skills.
+Esta metodologia proporciona aos alunos um potencial de crescimento de habilidades hard skills incomparáveis as demais medotologias, bem como o aprimoramento de habilidades soft skills.
 
-Com o início dessa metologia em 2019, o primeiro API, contou com a Fatec como primeira empresa parceira, com a proposta de desenvolvimento de um produto que possibilitasse transformar a vidas das pessoas, tornando suas rotinas mais simples e eficazes.
+Com o início dessa metodologia em 2019, o primeiro API, contou com a Fatec como primeira empresa parceira, com a proposta de desenvolvimento de um produto que possibilitasse transformar a vidas das pessoas, tornando suas rotinas mais simples e eficazes.
 
 Com um tema amplo, a escolha do projeto realizado pela equipe seguiu a proposta de um sistema de automação de iluminação e climatização simples, com controle através de aplicativo em um smartphone.
 
@@ -53,5 +53,5 @@ Para este projeto contribui no desenvolvimento do sistema utilizando a tecnologi
 
 ### Aprendizados Efetivos HS
 
-Este primeiro API, foi um grande desafio, os aprendizados efetivos foram imensos, desde o trabalho em equipe, também com o início da aprendizagem sobre a metodologia ágil, SCRUM, o processo de melhoria continua do produto, a etapa de requisitos dos clientes e integração de hardware e software.
+Este primeiro API, foi um grande desafio, os aprendizados efetivos foram imensos, desde o trabalho em equipe, também com o início da aprendizagem sobre a metodologia ágil, SCRUM, o processo de melhoria contínua do produto, a etapa de requisitos dos clientes e integração de hardware e software.
 
