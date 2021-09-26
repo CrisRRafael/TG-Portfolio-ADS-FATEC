@@ -36,10 +36,6 @@ Para o desenvolvimento deste projeto a equipe optou por usar os seguintes dispos
 
 - MODULO ESP8266 NodeMCU Wi-Fi:  é o nome de um microcontrolador, que oferece uma solução de rede WiFi e capaz também de executar aplicativos independentes. O NodeMCU é composto basicamente por um chip controlador, uma porta micro USB para alimentação e programação, conversor USB serial integrado e já possui Wi-Fi nativo.
 
-- LED e LED RGB : Neste projeto usamos Diodo Emissor de Luz, para representar a lâmpada dos cômodos da residência. O LED é um componente eletrônico capaz de emitir luz visível transformando energia elétrica em energia luminosa. Esse processo é chamado de eletroluminescência.
-
-- JUMPER:  é uma ligação móvel entre dois pontos de um circuito eletrônico. Os jumpers podem assumir vários formatos e tamanho, dependendo de como será feito o uso dele.
-
 - C ++ :
     Linguagem de Programação utilizada para programar a placa ESP8266 NodeMCU.
 
