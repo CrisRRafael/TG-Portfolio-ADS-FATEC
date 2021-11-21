@@ -140,27 +140,12 @@ Com a proposta/desafio apresentada pela empresa parceira,  a equipe desenvolveu 
 A VisGEO então surgiu com o objetivo de ser intuitivo e de baixo custo, sendo uma aplicação web que realiza uma extração de dados georeferenciados de shapefiles, transformando e carregando essas informações para um banco de dados geográfico.
 A seguir podemos observar as funcionalidades do sistema. 
 Visando a segurança, para acessar as funcionalidade da ferramenta é necessário que todos os usuários sejam cadastrados e autenticados no sistema.
-![Capturar](https://user-images.githubusercontent.com/56441321/138614761-3707195d-5167-4ab5-944e-8e22dd23859d.PNG)
-
 A autenticação no banco de dados ocorre de maneira simples e intuitiva.
-
-![Untitled (2)](https://user-images.githubusercontent.com/56441321/138614677-86282154-3340-4d7e-a9c4-d8428c5ba425.png)
-
 O usuário possui autonomia, pois com o sistema DE → PARA para a realização do upload dos shapefiles, ele decide o que será salvo.
-
-![Untitled (3)](https://user-images.githubusercontent.com/56441321/138614696-9acba2e2-01a7-48de-be92-d7ece929bd7c.png)
-
-![Untitled (4)](https://user-images.githubusercontent.com/56441321/138614709-e5070045-3775-46b9-b6d8-754395a860b5.png)
-
 E caso não seja necessário realizar a configuração do DE → PARA, pode-se enviar diretamente todas as informações para o banco de dados com apenas um clique.
-
-![Untitled (5)](https://user-images.githubusercontent.com/56441321/138614803-a8b555de-01d5-4f8f-8a46-83827c37862b.png)
-
-![Untitled (6)](https://user-images.githubusercontent.com/56441321/138614814-c2178592-1623-4180-92c5-1f440028267e.png)
-
 Na aplicação também é possível também baixar todos os shapefiles salvos no banco de dados.
 
-![Untitled (7)](https://user-images.githubusercontent.com/56441321/138614848-db047998-d25f-4d15-91aa-7c977ea32ff6.png)
+![API 3](https://user-images.githubusercontent.com/56441321/142759695-0477e41b-9ffa-4cbd-b40a-3f01e57ac86b.jpg)
 
 
 **Link do github do Projeto**
