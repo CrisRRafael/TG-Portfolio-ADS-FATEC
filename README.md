@@ -227,7 +227,7 @@ Neste projeto foram essenciais as habilidades soft skills como:  proatividade, c
 # Projeto 05 - 2021-2
 ![onecar](https://user-images.githubusercontent.com/56441321/142773447-89d0f7d5-f665-479d-96c1-f187e6d71e70.png)
 
-A GSW é especializada em desenvolvimento e implantação de soluções inteligentes em Tecnologia da Informação para gestão empresarial, gestão tributária, operações em comércio exterior e CRM.
+A GSW é especializada em desenvolvimento e implantação de soluções inteligentes em Tecnologia da Informação para gestão empresarial, gestão tributária, operações em comércio exterior e CRM.(fonte: https://www.linkedin.com/company/gsw-software/)
 Neste semestre a empresa trouxe a proposta de uma aplicação Web e Mobile para anúncios de vendas de automóveis, fazendo parte de uma extensão de um produto já existente da empresa.
 Para atender as necessidades da empresa, desenvolvemos o OneCar, uma aplicação Web e Mobile.
 Na aplicação Mobile é possível que seja cadastrado anúncio individual, cada anunciante pode gerenciar seus anúncios, é possível realizar a busca de um anúncio por nome, marca e ano do carro. Na aplicação Web também possui essas funcionalidades, bem como a possibilidade de fazer upload de um arquivo csv de usuário ou anúncios para cadastrar na base de dados.
@@ -261,11 +261,17 @@ Neste projeto participei do desenvolvimento das telas da aplicação Web com Rea
 
 ### Hard Skills
 • React: Sei fazer com autonomia;
+
 • Typescript: Sei fazer com ajuda autonomia;
+
 • Styled-Components: Sei fazer com autonomia;
+
 • Node: Sei fazer com ajuda;
+
 • Postgres: Sei fazer com ajuda;
+
 • Docker: Sei fazer com ajuda;
+
 
 
 ### Soft Skill
