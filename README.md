@@ -1,11 +1,15 @@
 # TG-Portfolio-ADS-FATEC
 
-## Cristiane de Fátima Rafael Rodrigues
+## Cristiane de Fátima Rafael Rodrigues![Cris]
+![Cris copy](https://user-images.githubusercontent.com/56441321/142772852-403e1272-5f28-42d3-9267-803edb2013a3.jpg)
 
 ### Sobre mim
 
-Atualmente cursando 5º Semestre de Análise e Desenvolvimento de Sistema na Faculdade de Tecnologia de São José dos Campos - Professor Jessen Vidal.
+Ingressante Faculdade de Tecnologia de São José dos Campos - Professor Jessen Vidal no segundo semestre do ano de 2019 , atualmente cursando 5º Semestre de Análise e Desenvolvimento de Sistema. 
 
+Na Fatec iniciei projetos junto ao meus colegas com o objetivo de atender necessidades de empresas parceiras.
+
+Este portfólio surgiu com o intuito de apresentar os diversos trabalhos desenvolvidos ao longo nos semestres.
 
 # Meus Projetos
 
@@ -176,3 +180,111 @@ Neste projeto auxiliei no levantamento de requisitos e definição das regras de
 ### Soft Skill
 
 Neste projeto foram essenciais  as habilidades soft skills como: cooperação, adaptação, organização, foco e responsabilidade
+
+
+# Projeto 04 - 2021-1
+
+![Untitled](https://user-images.githubusercontent.com/56441321/142772376-46663cec-158f-4df2-853b-4d78f1f88f95.png)
+
+A IACIT é uma empresa brasileira, fundada em 1986, e com sede em São José dos Campos (SP), um importante polo da indústria aeroespacial do Brasil.
+
+A empresa possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria. **(Fonte: [https://www.iacit.com.br/](https://www.iacit.com.br/)).**
+
+A empresa IACIT trouxe a necessidade de criação de ata de reunião digitais, bem como o seu gerenciamento em um sistema web.
+Typext surgiu para atender essa necessidade.
+Com Typext é possível criação de atas, bem como seu gerenciamento. A plataforma permiti a avaliação da minuta gerada  e assinatura digital por todos os participantes da reunião.
+
+![Ata](https://user-images.githubusercontent.com/56441321/142772963-27e868f9-5ee6-406d-b90e-bbae30229389.png)
+
+
+**Link do github do Projeto**
+
+https://github.com/Typext
+
+### Tecnologias Utilizadas
+
+![Tecnologias](https://user-images.githubusercontent.com/56441321/142773115-bc86c7ae-f2de-4a1c-83fb-ad4269d84a22.png)
+
+### Contribuições Pessoais
+
+Neste projeto contribui no levantamento de requisitos ,definição da regra de negócio, desenvolvimento da documentação e manual da plataforma, assim como desenvolvimento de rotas e integração com banco de dados
+
+### Hard Skills
+
+• Documentação do projeto: Sei fazer com autonomia
+
+•Node: Sei fazer com ajuda;
+
+•Postgres: Sei fazer com ajuda;
+
+•Docker: Sei fazer com ajuda;
+
+### Soft Skill
+
+Neste projeto foram essenciais as habilidades soft skills como:  proatividade, comunicação, trabalho em equipe, compreensão e empatia
+
+
+# Projeto 05 - 2021-2
+![onecar](https://user-images.githubusercontent.com/56441321/142773447-89d0f7d5-f665-479d-96c1-f187e6d71e70.png)
+
+A GSW é especializada em desenvolvimento e implantação de soluções inteligentes em Tecnologia da Informação para gestão empresarial, gestão tributária, operações em comércio exterior e CRM.
+Neste semestre a empresa trouxe a proposta de uma aplicação Web e Mobile para anúncios de vendas de automóveis, fazendo parte de uma extensão de um produto já existente da empresa.
+Para atender as necessidades da empresa, desenvolvemos o OneCar, uma aplicação Web e Mobile.
+Na aplicação Mobile é possível que seja cadastrado anúncio individual, cada anunciante pode gerenciar seus anúncios, é possível realizar a busca de um anúncio por nome, marca e ano do carro. Na aplicação Web também possui essas funcionalidades, bem como a possibilidade de fazer upload de um arquivo csv de usuário ou anúncios para cadastrar na base de dados.
+
+**Link do github do Projeto**
+
+https://github.com/OneCar-API
+
+
+### Tecnologias Utilizadas
+• NodeJS
+
+• Typescript
+
+• Express
+
+• PostgreSQL
+
+• MongoDB
+
+• ReactJS
+
+• Styled Components
+
+• Docker
+
+
+### Contribuições Pessoais
+Neste projeto participei do desenvolvimento das telas da aplicação Web com ReactJs, desenvolvimento das telas de Login, cadastro de anúncio, cadastro de usuário, edição de um anúncio e adaptação das telas de anúncios e anúncios individuais.
+
+
+### Hard Skills
+• React: Sei fazer com autonomia;
+• Typescript: Sei fazer com ajuda autonomia;
+• Styled-Components: Sei fazer com autonomia;
+• Node: Sei fazer com ajuda;
+• Postgres: Sei fazer com ajuda;
+• Docker: Sei fazer com ajuda;
+
+
+### Soft Skill
+
+Neste projeto foram essenciais as habilidades soft skills como:  comunicação eficiente, gerenciamento de tempo, capacidade de planejamento, trabalho em equipe e empatia.
+
+## Meus Principais Conhecimentos
+
+Python, Typescript e JavaScript, HTML, CSS, ReactJs, StyledComponentes.
+
+### Informações de contato
+Linkedin:
+linkedin.com/in/cristiane-rodrigues-20b3b61b2
+
+Github:
+https://github.com/CrisRRafael
+
+
+
+
+
+
