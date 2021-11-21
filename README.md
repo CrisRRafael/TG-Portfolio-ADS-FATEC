@@ -99,14 +99,7 @@ O programa do Auxílio Emergencial Positivo surgiu através do compromisso da SP
 
 Abaixo podemos ver as interfaces a aplicação:
 
-Tela inicial da ferramenta.
-![Untitled (3)](https://user-images.githubusercontent.com/56441321/138614359-ce6534e1-f93c-41f2-9d5b-c2c5f2319f35.png)
-
-Tela para inserção do CPF do solicitante para verificação do status.
-![Untitled (4)](https://user-images.githubusercontent.com/56441321/138614404-dcb5ce87-72c5-4865-8482-2e1e1cc89037.png)
-
-Tela na qual é possível verificar o status do solicitante.
-![Untitled (5)](https://user-images.githubusercontent.com/56441321/138614443-deb7c03c-01db-456d-93ff-04d215aa737b.png)
+![API 2 copy](https://user-images.githubusercontent.com/56441321/142759367-086bca27-f48d-4022-b72b-363c7ba3688e.jpg)
 
 
 ### **Link do github do Projeto**
