@@ -1,6 +1,6 @@
 # TG-Portfolio-ADS-FATEC
 
-## Cristiane de Fátima Rafael Rodrigues![Cris]
+## Cristiane de Fátima Rafael Rodrigues
 ![Cris copy](https://user-images.githubusercontent.com/56441321/142772852-403e1272-5f28-42d3-9267-803edb2013a3.jpg)
 
 ### Sobre mim
@@ -280,7 +280,7 @@ Neste projeto foram essenciais as habilidades soft skills como:  comunicação e
 
 ## Meus Principais Conhecimentos
 
-Python, Typescript e JavaScript, HTML, CSS, ReactJs, StyledComponentes.
+Python, Typescript, JavaScript, HTML, CSS, ReactJs, StyledComponentes.
 
 ### Informações de contato
 Linkedin:
