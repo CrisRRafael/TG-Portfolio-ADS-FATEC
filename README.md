@@ -282,9 +282,64 @@ Neste projeto foram essenciais as habilidades soft skills como:  comunicação e
 
 Python, Typescript, JavaScript, HTML, CSS, ReactJs, StyledComponentes.
 
+# Projeto 06 - 2022-1
+
+![orbit](https://user-images.githubusercontent.com/56441321/166165589-b42c41e3-636e-4ba0-8c6d-e28dacfb8787.png)
+
+O UOL é pioneiro, estando no mercado desde 1996, na produção de conteúdo noticioso na internet brasileira, oferecendo produtos e serviços que trazem praticidade para sua vida digital.(fonte: [https://sobreuol.noticias.uol.com.br/](https://sobreuol.noticias.uol.com.br/))
+
+O UOL é sinônimo de Internet no Brasil, 9 em cada 10 ****internautas acessam o UOL, com mais de 7,4 bilhões de páginas vistas mensalmente, mais de 114 milhões de visitantes únicos por mês e maior conteúdo em língua portuguesa do mundo.(fonte: [https://sobreuol.noticias.uol.com.br/](https://sobreuol.noticias.uol.com.br/))
+
+O UOL trouxe a necessidade de um sistema que possibilite prever possíveis falhas ou queda do sistema web, utilizando Inteligência Artficial.
+
+O Orbit foi desenvolvido visando monitorar o sistema web possibilitando o aviso antecipado de uma possível falha, para que medidas preventivas sejam realizadas, com o intuito de que a aplicação permaneça estável e acessível todo o tempo.
+
+![formulario](https://user-images.githubusercontent.com/56441321/166165677-e44f6542-62f3-4feb-b022-0e3e3dc1c305.png)
+
+Para a execução deste projeto, foi desenvolvido um formulário de cadastro, como aplicação alvo, para que assim tenha a possibilidade de iniciar teste de carga, para levantamento de dados para Inteligência Artificial.
+
+![Loccust](https://user-images.githubusercontent.com/56441321/166165738-999d857f-7171-4390-88e0-ec9fc6256e24.png)
+
+Teste de carga na aplicação através do Locust
+
+**Link do Github do Projeto:** 
+[https://github.com/Orbit-API](https://github.com/Orbit-API)
+
+### Tecnologias utilizadas
+
+- Java : é uma linguagem de programação orientada a objeto e plataforma computacional confiável.
+
+- Spring Boot: é um framework Java open source que tem como objetivo facilitar etapa de criação e configuração de uma aplicação
+
+- Vue JS: é um framework progressivo para a construção de interfaces de usuário.
+
+- Locust: O Locust é uma ferramenta open source escrita em python para testes de carga em aplicações web (independente da técnologia).
+
+- Prometheus:  é um sistema de monitoramento para serviços e aplicações. Ele coleta as métricas de seus alvos em determinados intervalos, avalia expressões de regras, exibe os resultados e também pode acionar alertas se alguma condição for observada como verdadeira.
+
+### Contribuições Pessoais
+
+Neste projeto contribui com levantamento de requisitos, bem como participei do desenvolvimento das telas da aplicação Web com VueJs.
+
+### Hard Skills
+
+ •  VueJs- Sei fazer com ajuda
+
+ • Java - Sei fazer com ajuda
+
+ • Framework Spring Boot - Sei fazer com ajuda
+
+### Soft Skill
+
+Neste projeto foram essenciais as habilidades soft skills como: comunicação eficiente, gerenciamento de tempo, capacidade de planejamento, trabalho em equipe e empatia, compreensão.
+
+### Meus Principais Conhecimentos
+
+Python, Typescript, JavaScript, HTML, CSS, ReactJs, StyledComponentes, VueJs, Java.
+
 ### Informações de contato
 Linkedin:
-linkedin.com/in/cristiane-rodrigues-20b3b61b2
+https://linkedin.com/in/cristiane-rodrigues-20b3b61b2
 
 Github:
 https://github.com/CrisRRafael
