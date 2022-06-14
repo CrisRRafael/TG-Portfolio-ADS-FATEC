@@ -42,7 +42,9 @@ Para este projeto contribui em um primeiro momento no tratamento de dados enviad
 ### Hard Skills
 
 Análise de dados de arquivo .csv com Python : Sei fazer com autonomia.
+
 Extração de dados úteis com Python: Sei fazer com autonomia.
+
 Desenvolvimento de interface gráfica com Tkinter: Sei fazer com autonomia.
 
 ### Soft Skill
