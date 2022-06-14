@@ -13,7 +13,7 @@ Este portfólio surgiu com o intuito de apresentar os diversos trabalhos desenvo
 
 # Meus Projetos
 
-- [Em 2019-2: SIGMA](https://github.com/CrisRRafael/TG-Portfolio-ADS-FATEC/edit/main/SIGMA%20-%20API%201ºSemestre.md)
+- [Em 2019-2: SIGMA](https://github.com/CrisRRafael/TG-Portfolio-ADS-FATEC/blob/main/Projetos/SIGMA%20-%20API%201%C2%BASemestre.md)
 
 
 
