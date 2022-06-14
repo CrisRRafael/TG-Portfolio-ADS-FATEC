@@ -2,8 +2,11 @@
  TG-Portfolio-ADS-FATEC
 </h1>
 
-## Cristiane de Fátima Rafael Rodrigues
-![Cris copy](https://user-images.githubusercontent.com/56441321/142772852-403e1272-5f28-42d3-9267-803edb2013a3.jpg)
+<h2 align="center"> Cristiane de Fátima Rafael Rodrigues </h2>
+<p align ="center">
+ <img width=300" src ="https://github.com/CrisRRafael/TG-Portfolio-ADS-FATEC/blob/main/Projetos/img/Cris.jpeg"/>
+</p>
+
 
 ### Sobre mim
 
@@ -13,7 +16,7 @@ Na Fatec iniciei projetos junto ao meus colegas com o objetivo de atender necess
 
 Este portfólio surgiu com o intuito de apresentar os diversos trabalhos desenvolvidos ao longo nos semestres.
 
-# Meus Projetos
+<h2 align="center"> Meus Projetos </h2>
 
 - [Em 2019-2: SIGMA](https://github.com/CrisRRafael/TG-Portfolio-ADS-FATEC/blob/main/Projetos/SIGMA%20-%20API%201%C2%BASemestre.md)
 - [Em 2020-1: Auxílio Emergencial Positivo](https://github.com/CrisRRafael/TG-Portfolio-ADS-FATEC/blob/main/Projetos/AEP-API-2%C2%BASemestre.md)
